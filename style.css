@@ -1,0 +1,51 @@
+body{
+  font-family: 'Baloo Da 2', cursive;
+}
+
+h2{
+  color: #1b262c;
+}
+.card-title{
+  font-weight: 500;
+}
+.card{
+  border: none;
+}
+
+.district{
+  background-image: linear-gradient(45deg, #6dd5ed, #2193b0);
+}
+
+.seheri{
+  background-image: linear-gradient(45deg, #02aab0, #00cdac);
+}
+
+.iftar{
+  background-image: linear-gradient(45deg, #ff5f6d, #ffc371);
+}
+
+
+/* Footer */
+footer{
+  color: #808080;
+}
+.fa-heart{
+  color: #f08080;
+}
+
+/* Button */
+.btn-today{
+  background-color: #ececec;
+}
+.btn-outline{
+  border-color: #ececec;
+}
+.btn-outline:hover{
+  background-color: #ececec;
+}
+.btn{
+  color: #1b1b1b;
+}
+.btn:focus{
+  box-shadow: none;
+}
